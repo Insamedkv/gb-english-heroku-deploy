@@ -4687,7 +4687,7 @@
  .card-header {
    display: flex;
    align-items: center;
-   justify-content: center;
+   justify-content: space-between;
    text-align: center;
    padding: 0.5rem 1rem;
    background-color: rgba(0, 0, 0, 0.03);
@@ -11054,10 +11054,6 @@
 
 .finalText {
   text-align: center;
-}
-
-.rotate {
-  margin-left: 100px;
 }
 
 .button-slide {
